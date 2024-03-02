@@ -1,0 +1,1 @@
+It states that when a conductor is passed through a magnetic field a current is generated in the conductor or if a stationary conductor is placed in a changing magnetic field the same will occur
