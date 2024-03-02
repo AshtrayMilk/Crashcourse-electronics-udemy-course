@@ -1,3 +1,5 @@
+ALL BOOK FILES AND PDF FILES HAVE BEEN DELETED FROM THIS TREE TO PREVENT ANY COPYING.
+
 README.TXT file for Crash Course Electronics by Andre' LaMothe
 
 Welcome to Crash Course Electronics! In this ZIP file you will find all of the files referenced and required 
