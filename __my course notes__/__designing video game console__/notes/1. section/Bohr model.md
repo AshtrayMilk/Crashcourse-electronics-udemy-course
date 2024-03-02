@@ -1,0 +1,1 @@
+The Bohr model of the atom states that an atom is composed of a number of neutrons (without charge) and protons (positively charged) that create the nucleus which is surrounded by a cloud of orbiting electrons (negatively charged).
